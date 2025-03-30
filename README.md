@@ -11,8 +11,11 @@ The **Business Insights 360 Project** is designed to refine and optimize various
 
 ## Key Objectives: 
 ✅ **Understand customer behavior** via sales performance across different markets. 
+
 ✅ **Evaluate product performance** to identify top products & accordingly optimise inventory. 
+
 ✅ **Evaluate marketing effectiveness** via product sales performance & improvise marketing strategies.  
+
 ✅ **Provide actionable insights** to Executive Leaders for strategic decision-making.  
 
 ---
