@@ -1,77 +1,47 @@
 # 📊 Business Insights 360 Project
+---
 
-## 📖 Table of Contents
-- [Overview](#overview)
-- [Project Context](#project-context)
-- [Project Description](#project-description)
-- [Methodology](#methodology)
-- [Dashboards and Insights](#dashboards-and-insights)
-  - [Finance View](#finance-view)
-  - [Sales View](#sales-view)
-  - [Supply Chain View](#supply-chain-view)
-  - [Executive View](#executive-view)
-  - [Marketing View](#marketing-view)
-- [Skills Acquired](#skills-acquired)
-- [Tech Stack](#tech-stack)
-- [Business Terms](#business-terms)
-- [Soft Skills](#soft-skills)
-- [Files and Resources](#files-and-resources)
-- [Conclusion](#conclusion)
-- [Contact Information](#contact-information)
+## Project Overview
+
+The **Business Insights 360 Project** is designed to refine and optimize various aspects of **AtliQ Hardware's** business. The project leverages multiple tools such as **SQL, Excel & Power BI** to uncover **key insights**, enabling **data-driven decision-making** and providing a strategic advantage in the market.
+
+**About AtliQ Hardware:** AtliQ Hardware has been experiencing **rapid growth** in recent years and aims to expand its operations. Previously, decision-making relied on just **excel reports and manual analysis**, leading to inefficiencies. To surpass competitors and make informed business decisions, they want to implement **Power BI** across multiple business domains. This project aims to provide **actionable insights** to enhance performance in **finance, sales, marketing, and supply chain** departments of the company.
 
 ---
 
-## 📌 Overview
-The **Business Insights 360 Project** is designed to streamline and optimize various aspects of **AtliQ Hardware's** business, including **Finance, Sales, Supply Chain, Executive Management, and Marketing**. The project leverages **Power BI** to uncover **key insights**, enabling **data-driven decision-making** and providing a strategic advantage in the market.
-
-🚀 **About AtliQ Hardware:** AtliQ Hardware has been experiencing **rapid growth** in recent years. To surpass competitors and make informed business decisions, they have implemented **Power BI analytics** across multiple business domains. This project provides **actionable insights** to enhance performance in **finance, sales, marketing, and supply chain**.
-
----
-
-## 📊 Project Context
-As AtliQ Hardware expands its operations, **stakeholders demand deeper insights** into various aspects of the business. Previously, decision-making relied on **fragmented reports and manual analysis**, leading to inefficiencies.
-
-With the implementation of **Power BI**, AtliQ aims to:
-✔ **Automate reporting processes** and reduce manual effort.  
-✔ **Enable real-time data access** for quick decision-making.  
-✔ **Improve visibility** into financial performance, sales trends, and supply chain efficiency.  
-✔ **Enhance collaboration** across departments by providing a unified data platform.  
-
-This project is a **first step toward building a data-driven culture** within AtliQ Hardware, allowing leadership to make **strategic and informed business decisions**. 🚀
+## Key Objectives: 
+✅ **Understand customer behavior** via sales performance across different markets. 
+✅ **Evaluate product performance** to identify top products & accordingly optimise inventory. 
+✅ **Evaluate marketing effectiveness** via product sales performance & improvise marketing strategies.  
+✅ **Provide actionable insights** to Executive Leaders for strategic decision-making.  
 
 ---
 
-## 📂 Project Description
-This project delivers a **360-degree view** of business performance by analyzing key domains such as **finance, sales, marketing, and supply chain**. The goal is to **identify trends, uncover hidden opportunities, and provide actionable recommendations** for business improvement.
+## Step-By-Step Approach used in this project:
 
-### 🎯 Key Objectives:
-✔ **Analyze historical data** to track business performance and trends.  
-✔ **Understand customer behavior** through segmentation and analytics.  
-✔ **Evaluate marketing effectiveness** to optimize strategies.  
-✔ **Provide actionable insights** for strategic decision-making.  
+1️⃣ **Data Collection** – Connected data using **SQL & Excel** to gather information from various sources.
 
----
+2️⃣ **Data Cleaning & Transformation** – Used **Power Query** to connect, clean, and transform raw data into a structured format, therefore automating the process of data retrieval in a structured manner.   
 
-## 🛠 Methodology
-The following step-by-step approach was used in this project:
+3️⃣ **Data Modeling** – Created a **complex data model** connecting **10+ tables**, establishing relationships and ensuring data integrity. 
 
-1️⃣ **Data Collection** – Connected data using **SQL & Excel** to gather information from various sources.  
-2️⃣ **Data Cleaning & Transformation** – Used **Power Query** to connect, clean, and transform raw data into a structured format.  
-3️⃣ **Data Modeling** – Created a **complex data model** connecting **10+ tables** to establish relationships and ensure data integrity.  
+![Image](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Data%20Model%20-%20Business%20Insights%20360%20Project.png)
+
 4️⃣ **Visualization** – Utilized **Power BI** to create insightful dashboards, incorporating tables, line charts, bar graphs, and other visualizations.  
+
 5️⃣ **Analysis** – Generated valuable insights **applicable across various departments**, helping businesses optimize strategies and make data-driven decisions.  
 
 ---
 
-## 📊 Dashboards and Insights
-### 📈 Finance View
-**Objectives:**  
-✔ Improve financial planning and budgeting processes.  
-✔ Enhance cost control and expense management.  
+## Individual Dashboards and Insights
 
-**Key Achievements:**  
-✔ Implemented a robust **financial forecasting model**, improving budget predictions.  
-✔ Created **benchmarking against last year’s data and target goals** for budgeting.  
+### Finance View
+
+**Key Implementations:**  
+✔ Implemented a robust **P & L Report**, showcasing financial performance of the company.  
+✔ Created **benchmarking against last year’s data and target goals** for budgeting. 
+
+![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Finance%20View.gif)
 
 ### 📊 Sales View
 **Objectives:**  
