@@ -5,7 +5,7 @@
 
 The **Business Insights 360 Project** is designed to refine and optimize various aspects of **AtliQ Hardware's** business. The project leverages multiple tools such as **SQL, Excel & Power BI** to uncover **key insights**, enabling **data-driven decision-making** and providing a strategic advantage in the market.
 
-**About AtliQ Hardware:** AtliQ Hardware has been experiencing **rapid growth** in recent years and aims to expand its operations. Previously, decision-making relied on just **excel reports and manual analysis**, leading to inefficiencies. To surpass competitors and make informed business decisions, they want to implement **Power BI** across multiple business domains. This project aims to provide **actionable insights** to enhance performance in **finance, sales, marketing, and supply chain** departments of the company.
+**AtliQ Hardware** has been experiencing **rapid growth** in recent years and aims to expand its operations. Previously, decision-making relied on just **excel reports and manual analysis**, leading to inefficiencies. To surpass competitors and make informed business decisions, they want to implement **Power BI** across multiple business domains. This project aims to provide **actionable insights** to enhance performance in **finance, sales, marketing, and supply chain** departments of the company.
 
 ---
 
