@@ -17,7 +17,7 @@ The **Business Insights 360 Project** is designed to refine and optimize various
 
 ---
 
-## Step-By-Step Approach used in this project:
+## 📌 Step-By-Step Approach used in this project:
 
 1️⃣ **Data Collection** – Connected data using **SQL & Excel** to gather information from various sources.
 
@@ -38,100 +38,79 @@ The **Business Insights 360 Project** is designed to refine and optimize various
 ### Finance View
 
 **Key Implementations:**  
-✔ Implemented a robust **P & L Report**, showcasing financial performance of the company.  
-✔ Created **benchmarking against last year’s data and target goals** for budgeting. 
+➡️ Implemented a robust **P & L Report**, showcasing financial performance of the company.  
+➡️ Created **benchmarking against last year’s data and target goals** for budgeting. 
 
 ![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Finance%20View.gif)
 
-### 📊 Sales View
-**Objectives:**  
-✔ Increase sales revenue and market share.  
-✔ Enhance customer relationship management.  
+### Sales View
+
+**Key Implementations:**  
+➡️ Developed **customer and product sales performance reports** and **unit economics** analysis.  
+➡️ Identified **sales trends via custom tooltips and key performance indicators (KPIs)**.  
+
+![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Sales%20View.gif)
+
+### Marketing View
 
 **Key Achievements:**  
-✔ Developed **customer and product sales performance reports** and **unit economics** analysis.  
-✔ Identified **sales trends and key performance indicators (KPIs)**.  
+➡️ Created **region-wise and segment-wise market performance reports**.  
+➡️ Identified **net sales & gross-margins** to understand individual product performance.  
 
-### 🚛 Supply Chain View
-**Objectives:**  
-✔ Optimize inventory management and reduce lead times.  
-✔ Enhance supplier relationships for cost savings.  
+![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Marketing%20View.gif)
 
-**Key Achievements:**  
-✔ Identified **forecast accuracy %, net error %, absolute error % trends**.  
-✔ Analyzed key metrics by customers and products to **improve supply-demand management**.  
+### Supply Chain View
 
-### 🏢 Executive View
-**Objectives:**  
-✔ Provide a high-level overview of **organizational performance**.  
-✔ Enable **data-driven decision-making** for top management.  
+**Key Implementations:**  
+➡️ Calculated metrics such as **forecast accuracy %, net error and absolute error**.  
+➡️ Analyzed key metrics by customers and products to **improve supply-demand management**.  
 
-**Key Achievements:**  
-✔ Developed an **executive dashboard** for real-time performance monitoring.  
-✔ Included revenue insights by **division, customers, products, and channels**.  
-✔ Integrated a **ribbon chart for manufacturer comparison**.  
+![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Supply%20Chain%20View.gif)
 
-### 📢 Marketing View
-**Objectives:**  
-✔ Increase **brand visibility and customer engagement**.  
-✔ Implement **data-driven marketing strategies**.  
+### Executive View
 
-**Key Achievements:**  
-✔ Created **region-wise and product-wise market performance reports**.  
-✔ Identified **market trends and tracked marketing KPIs**.  
+**Key Implementations:**  
+➡️ Developed an **executive dashboard** for real-time performance monitoring.  
+➡️ Included revenue insights by **division, customers, products, and channels**.  
+➡️ Integrated a **ribbon chart for market share comparison of AtliQ & its competitors**. 
+
+![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Executive%20View.gif)
 
 ---
 
-## 🛠 Skills Acquired
-✔ Power BI fundamentals.  
-✔ Creating calculated columns and **DAX measures**.  
-✔ Data modeling, validation techniques, and using KPI indicators.  
-✔ **Bookmarks** to switch between visuals and conditional formatting.  
-✔ Page navigation with buttons and tooltips to save page space.  
-✔ Dynamic titles based on applied filters.  
-✔ Power BI Service for **publishing and sharing reports**.  
-✔ Auto-refresh setup for data through a **gateway**.  
-✔ Creating a **date table using M language**.  
+## Skills Learned & Acquired:
+✔️ Power BI fundamentals.  
+✔️ Creating calculated columns and **DAX measures**.  
+✔️ Data modeling, validation techniques, and using KPI indicators.  
+✔️ **Bookmarks** to switch between visuals and conditional formatting.  
+✔️ Page navigation with buttons and tooltips to save page space.  
+✔️ Dynamic titles based on applied filters.  
+✔️ Power BI Service for **publishing and sharing reports**.  
+✔️ Auto-refresh setup for data through a **gateway**.  
+✔️ Creating a **date table using M language**.  
 
 ---
 
-## 🔧 Tech Stack
-✔ **SQL**  
-✔ **Power BI Desktop**  
-✔ **DAX Language**  
-✔ **DAX Studio** (to optimize file size)  
+## Domain Specific Metrics & Concepts Implemented: 
+✔️ **Gross Margin, Gross Margin %**  
+✔️ **Gross Sales, Gross Sales %**  
+✔️ **Pre & Post-invoice deductions**  
+✔️ **Net Sales, Net Invoice Sales**  
+✔️ **Net Profit & Net Profit %**  
+✔️ **COGS (Cost of Goods Sold)**  
+✔️ **YTG (Year to Go) & YTD (Year to Date)**  
+✔️ **Direct, Retailer, Consumer, Distributor channels**  
 
 ---
 
-## 💰 Business Terms
-✔ **Gross Margin, Gross Margin %**  
-✔ **Gross Sales, Gross Sales %**  
-✔ **Pre & Post-invoice deductions**  
-✔ **Net Sales, Net Invoice Sales**  
-✔ **Net Profit & Net Profit %**  
-✔ **COGS (Cost of Goods Sold)**  
-✔ **YTG (Year to Go) & YTD (Year to Date)**  
-✔ **Direct, Retailer, Consumer, Distributor channels**  
+## Soft Skills Leveraged:
+✅ Stakeholder mapping and analysis.  
+✅ Effective communication and feedback management.  
+✅ Business and domain knowledge in **sales, finance, marketing, and supply chain**.  
 
 ---
 
-## 🏆 Soft Skills
-✔ Stakeholder mapping and analysis.  
-✔ Effective communication and feedback management.  
-✔ Business and domain knowledge in **sales, finance, marketing, and supply chain**.  
+## Conclusion
+This project provided a **holistic understanding** of key business drivers and performance indicators, leading to **data-backed insights**. By integrating data from multiple areas, the **Business Insights 360 Project** empowers AtliQ Hardware to **make strategic, informed decisions and drive sustainable growth**. 🚀
 
 ---
-
-## 📁 Files and Resources
-📊 **Power BI Dashboard** – Interactive business insights dashboard.  
-🎥 **Video Presentation** – Watch the detailed project walkthrough.  
-
----
-
-## 📈 Conclusion
-This project provided a **holistic understanding** of key business drivers and performance indicators, leading to **data-backed insights**. By integrating data from multiple areas, the **Business Insights 360 Project** empowers businesses to **make strategic, informed decisions and drive sustainable growth**. 🚀
-
----
-
-## 📞 Contact Information
-For further details or collaboration opportunities, feel free to reach out! 🤝
