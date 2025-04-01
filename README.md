@@ -41,7 +41,6 @@ The **Business Insights 360 Project** is designed to refine and optimize various
 ### Finance View
 
 ➡️ Implemented a robust **P & L Report**, showcasing financial performance of the company.  
-
 ➡️ Created **benchmarking against last year’s data and target goals** for budgeting. 
 
 ![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Finance%20View.gif)
@@ -49,7 +48,6 @@ The **Business Insights 360 Project** is designed to refine and optimize various
 ### Sales View
   
 ➡️ Developed **customer and product sales performance reports** and **unit economics** analysis.  
-
 ➡️ Identified **sales trends via custom tooltips and key performance indicators (KPIs)**.  
 
 ![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Sales%20View.gif)
@@ -57,7 +55,6 @@ The **Business Insights 360 Project** is designed to refine and optimize various
 ### Marketing View
   
 ➡️ Created **region-wise and segment-wise market performance reports**.  
-
 ➡️ Identified **net sales & gross-margins** to understand individual product performance.  
 
 ![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Marketing%20View.gif)
@@ -65,7 +62,6 @@ The **Business Insights 360 Project** is designed to refine and optimize various
 ### Supply Chain View
   
 ➡️ Calculated metrics such as **forecast accuracy %, net error and absolute error**.  
-
 ➡️ Analyzed key metrics by customers and products to **improve supply-demand management**.  
 
 ![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Supply%20Chain%20View.gif)
@@ -73,9 +69,7 @@ The **Business Insights 360 Project** is designed to refine and optimize various
 ### Executive View
   
 ➡️ Developed an **executive dashboard** for real-time performance monitoring.  
-
 ➡️ Included revenue insights by **division, customers, products, and channels**.  
-
 ➡️ Integrated a **ribbon chart for market share comparison of AtliQ & its competitors**. 
 
 ![GIF](https://github.com/ferdinandroshan/Power-BI-Business-Insights-360-Project/blob/main/Additional%20Files%20%26%20Resources/Executive%20View.gif)
