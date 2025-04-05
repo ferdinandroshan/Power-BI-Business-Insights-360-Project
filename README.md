@@ -1,6 +1,9 @@
 # 📊 Business Insights 360 Project
 ---
 
+**Live Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiM2QxMjAzZjItNWZlNi00OTFlLTkxYjktYWU1MmE1M2JiNTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+---
+
 ## Project Overview
 
 The **Business Insights 360 Project** is designed to refine and optimize various aspects of **AtliQ Hardware's** business. The project leverages multiple tools such as **SQL, Excel & Power BI** to uncover **key insights**, enabling **data-driven decision-making** and providing a strategic advantage in the market.
